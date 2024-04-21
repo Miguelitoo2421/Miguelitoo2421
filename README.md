@@ -1,2 +1,3 @@
-# Titulo del proyecto
+# curriculum
+![encabezado](RECURSOS/encabezado_cv.jpg)
 
