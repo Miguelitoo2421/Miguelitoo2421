@@ -1,5 +1,5 @@
 # curriculum
-![encabezado](RECURSOS/encabezado_cv.jpg)
+![encabezado](RECURSOS/encabezado.png)
 
 ## Proyectos y Retos
 ![portada reto2](https://github.com/Miguelitoo2421/Miguelitoo2421/blob/main/imagen_reto2/Frame%201.jpg)
